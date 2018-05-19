@@ -1,0 +1,203 @@
+#wrap {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    background-color: rgba(1, 1, 1, 0.725);
+    z-index: 100;
+    overflow: auto;
+}
+#window {
+    width: 380px;
+    height: 220px;
+    margin: 50px auto;
+    display: none;
+    background: #fff;
+    z-index: 200;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+}
+.close {
+    max-height: 15px;
+    max-width: 15px;
+    margin-left: 340px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+#wrapCarUpdate {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    background-color: rgba(1, 1, 1, 0.725);
+    z-index: 100;
+    overflow: auto;
+}
+#windowCarUpdate {
+    width: 300px;
+    height: 160px;
+    margin: 50px auto;
+    display: none;
+    background: #fff;
+    z-index: 200;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+}
+.closeCar {
+    max-height: 15px;
+    max-width: 15px;
+    margin-left: 290px;
+    margin-top: 0px;
+    cursor: pointer;
+}
+#wrapUserUpdate {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    background-color: rgba(1, 1, 1, 0.725);
+    z-index: 100;
+    overflow: auto;
+}
+#windowUserUpdate {
+    width: 380px;
+    height: 250px;
+    margin: 50px auto;
+    display: none;
+    background: #fff;
+    z-index: 200;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+}
+#wrapCarCreate {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    background-color: rgba(1, 1, 1, 0.725);
+    z-index: 100;
+    overflow: auto;
+}
+#windowCarCreate {
+    width: 300px;
+    height: 160px;
+    margin: 50px auto;
+    display: none;
+    background: #fff;
+    z-index: 200;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+}
+#wrapUserCreate {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    background-color: rgba(1, 1, 1, 0.725);
+    z-index: 100;
+    overflow: auto;
+}
+#windowUserCreate {
+    width: 380px;
+    height: 220px;
+    margin: 50px auto;
+    display: none;
+    background: #fff;
+    z-index: 200;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+}
+#wrapRouteCreate {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    background-color: rgba(1, 1, 1, 0.725);
+    z-index: 100;
+    overflow: auto;
+}
+#windowRouteCreate {
+    width: 380px;
+    height: 220px;
+    margin: 50px auto;
+    display: none;
+    background: #fff;
+    z-index: 200;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+}
+#wrapRouteUpdate {
+    display: none;
+    opacity: 0.8;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+    background-color: rgba(1, 1, 1, 0.725);
+    z-index: 100;
+    overflow: auto;
+}
+#windowRouteUpdate {
+    width: 380px;
+    height: 250px;
+    margin: 50px auto;
+    display: none;
+    background: #fff;
+    z-index: 200;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    padding: 16px;
+}

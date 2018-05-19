@@ -1,0 +1,16 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>My custom TLD</short-name>
+    <uri>/WEB-INF/custom.tld</uri>
+    <tag>
+        <name>signed</name>
+        <tag-class>tag.SignedInTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+    <tag>
+        <name>minDate</name>
+        <tag-class>tag.CurrentDateTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
